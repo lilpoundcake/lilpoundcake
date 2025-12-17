@@ -1,6 +1,6 @@
 # Stan Skripkin
 
-<div align="center">
+  <div align="center">
   <a href="">[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/stanislav-skripkin/)</a>
   <a href="">	[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/lilpound)</a>
   <a href="">[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:s.skripkin@alumni.nsu.ru)</a>
